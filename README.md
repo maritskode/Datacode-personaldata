@@ -1,5 +1,5 @@
 # Datacode-personaldata
-The projects aim to administrate personal data (e.g. name, address, email address) of a set of people.
+The project aim to administrate personal data (e.g. name, address, email address) of a set of people.
 
 # Development stage
 This project contains my absolutely first programs in C#, xaml, WPF, and stored procedures in SQL database.
